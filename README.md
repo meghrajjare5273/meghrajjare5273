@@ -1,33 +1,6 @@
-# Meghraj Jare
+# Hi 👋, I'm Meghraj Jare
 
-```typescript
-const profile = {
-  name: "Meghraj Jare",
-  bio: "Student",
-  currentWork: "Working on a Legal Assistant application",
-  skills: [
-    "Next.js",
-    "React",
-    "HTML5",
-    "CSS3",
-    "Tailwind",
-    "Node.js",
-    "Express",
-    "PostgreSQL",
-    "Redis",
-    "Azure",
-    "Scikit-Learn",
-    "Hugging Face",
-    "NumPy",
-    "Pandas",
-    "TypeScript",
-    "Python",
-    "PHP",
-    "C++",
-    "C"
-  ],
-}
-```
+**Student**
 
 ## 🔭 I'm currently working on
 
@@ -45,93 +18,74 @@ Working on a Legal Assistant application
 
 <!-- ⚠️ Important: Replace 'meghrajjare5273' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meghrajjare5273&theme=onedark&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=meghrajjare5273&theme=flat&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'meghrajjare5273' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meghrajjare5273&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meghrajjare5273&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'meghrajjare5273' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghrajjare5273&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghrajjare5273&layout=compact&langs_count=10&theme=default"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'meghrajjare5273' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghrajjare5273&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghrajjare5273&theme=default&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
 
-```json
-{
-  "frontend": [
-    "Next.js",
-    "React",
-    "HTML5",
-    "CSS3",
-    "Tailwind"
-  ],
-  "backend": [
-    "Node.js",
-    "Express",
-    "PostgreSQL",
-    "Redis"
-  ],
-  "devops": [
-    "Azure"
-  ],
-  "ai/ml": [
-    "Scikit-Learn",
-    "Hugging Face",
-    "NumPy",
-    "Pandas"
-  ],
-  "languages": [
-    "TypeScript",
-    "Python",
-    "PHP",
-    "C++",
-    "C"
-  ]
-}
-```
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/Next.js-ff69b4?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-ff69b4?style=for-the-badge&logo=tailwind&logoColor=white" /> 
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-4169e1?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-4169e1?style=for-the-badge&logo=redis&logoColor=white" /> 
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/Azure-9370db?style=for-the-badge&logo=azure&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c++&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFA500?style=for-the-badge&logo=c&logoColor=white" /> 
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/Scikit-Learn-00CED1?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging Face-00CED1?style=for-the-badge&logo=hugging face&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> 
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  github: "meghrajjare5273",
-  linkedin: "https://www.linkedin.com/in/meghrajjare5273/",
-  medium: "@meghrajjare77",
-  instagram: "https://www.instagram.com/meghrajjare/",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://github.com/meghrajjare5273"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/meghrajjare5273/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/meghrajjare/"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://medium.com/@meghrajjare77"><img src="https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghrajjare5273/) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@meghrajjare77) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/meghrajjare5273) 
+
 </div>
 
 ## 📫 How to reach me
 
-```javascript
-const contact = {
-  email: "meghrajjare77@gmail.com",
-  phone: "7499136834",
-}
-```
+<div align="left">
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+📧 **Email:** [meghrajjare77@gmail.com](mailto:meghrajjare77@gmail.com)
 
-process.exit(0); // Until next time 👋
-```
+📱 **Phone:** 7499136834
+
+</div>
+
+---
+⭐️ From [Meghraj Jare](https://github.com/meghrajjare5273)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/meghrajjare5273/count.svg" alt="Visitor Count" />
+</div>
