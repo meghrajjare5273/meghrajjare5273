@@ -1,90 +1,38 @@
-<div align="center">
+## About Me
 
-# ✨ Meghraj Jare ✨
+I’m Meghraj Jare, a web development enthusiast passionate about building modern, scalable, and complex applications. I enjoy exploring full-stack development, solving problems through code, and experimenting with new technologies to keep learning and growing as a developer.
 
-<p><em>Student</em></p>
+I am a serial vibe-coder who knows what he's vibing with.
 
-<hr>
+## My Skills
 
-</div>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> 
 
-## 🔭 I'm currently working on
+## GitHub Stats
 
-<div align="center"><p>Working on a Legal Assistant application</p></div>
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=meghrajjare5273&theme=dark&show_icons=true&count_private=true">
 
-## 🏆 GitHub Trophies
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=meghrajjare5273&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=meghrajjare5273&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-<!-- ⚠️ Important: Replace 'meghrajjare5273' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meghrajjare5273&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
+## Connect with me
 
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'meghrajjare5273' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meghrajjare5273&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'meghrajjare5273' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghrajjare5273&layout=compact&langs_count=10&theme=buefy"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'meghrajjare5273' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghrajjare5273&theme=buefy&hide_border=false" />
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**🎨 Frontend**
-
-`Next.js` • `React` • `HTML5` • `CSS3` • `Tailwind`
-
-**⚙️ Backend**
-
-`Node.js` • `Express` • `PostgreSQL` • `Redis`
-
-**🚀 DevOps**
-
-`Azure`
-
-**🧠 AI/ML**
-
-`Scikit-Learn` • `Hugging Face` • `NumPy` • `Pandas`
-
-**💬 Languages**
-
-`TypeScript` • `Python` • `PHP` • `C++` • `C`
-
-</div>
-
-## 🌐 Socials
-
-<div align="center">
-
-<a href="https://github.com/meghrajjare5273"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/meghrajjare5273/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://medium.com/@meghrajjare77"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a> 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="center">
-
-**Email:** meghrajjare77@gmail.com
-**Phone:** 7499136834
-
-</div>
-
-<div align="center">
-
-✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
-
-</div>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/meghrajjare5273/" target="_blank">Meghraj Jare</a> Email: meghrajjare77@gmail.com</p>
