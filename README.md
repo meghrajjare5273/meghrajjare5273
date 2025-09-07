@@ -1,8 +1,8 @@
 ## About Me
 
-I’m Meghraj Jare, a web development enthusiast passionate about building modern, scalable, and complex applications. I enjoy exploring full-stack development, solving problems through code, and experimenting with new technologies to keep learning and growing as a developer.
+I’m Meghraj Jare, a web development enthusiast passionate about building modern, scalable, and complex applications. I enjoy exploring full-stack development, solving problems through code, and experimenting with new technologies to keep learning and growing as a developer. I'm also passionate about LLMs and Machine Learning algorithms and I enjoy exploring new avenues in this domain.
 
-I am a serial vibe-coder who knows what he's vibing with.
+Basically, I am a serial vibe-coder who understands what he's vibing with.
 
 ## My Skills
 
